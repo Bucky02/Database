@@ -161,13 +161,6 @@ public class MainActivity extends Activity {
 
         myDBAdapter.insert_g("Dwight Powell", "", 17);
         myDBAdapter.insert_g("Dwight Powell", "", 16);
-        myDBAdapter.insert_g("Moses Brown", "", 20);
-        myDBAdapter.insert_g("Moses Brown", "", 13);
-        myDBAdapter.insert_g("Moses Brown", "", 26);
-        myDBAdapter.insert_g("Moses Brown", "", 27);
-        myDBAdapter.insert_g("Moses Brown", "", 5);
-        myDBAdapter.insert_g("Moses Brown", "", 16);
-        myDBAdapter.insert_g("Moses Brown", "", 10);
 
         myDBAdapter.insert_g("Isaiah Thomas", "", 3);
         myDBAdapter.insert_g("Isaiah Thomas", "", 4);
@@ -374,8 +367,6 @@ public class MainActivity extends Activity {
         myDBAdapter.insert_g("Mohamed Bamba", "", 25);
         myDBAdapter.insert_g("Mohamed Bamba", "", 7);
         myDBAdapter.insert_g("Mohamed Bamba", "", 28);
-
-        myDBAdapter.insert_g("Cole Anthony", "", 25);
         myDBAdapter.insert_g("James Bouknight", "", 18);
 
         myDBAdapter.insert_g("Desmond Bane", "", 2);
@@ -501,7 +492,7 @@ public class MainActivity extends Activity {
         myDBAdapter.insert_g("Patrick Ewing", "", 27);
         myDBAdapter.insert_g("Kenny Smith", "", 11);
         myDBAdapter.insert_g("Kenny Smith", "", 3);
-        myDBAdapter.insert_g("Kenny Smith", "", 11);
+        myDBAdapter.insert_g("Kenny Smith", "", 21);
         myDBAdapter.insert_g("Kenny Smith", "", 12);
         myDBAdapter.insert_g("Kenny Smith", "", 1);
         myDBAdapter.insert_g("Kenny Smith", "", 25);
@@ -545,6 +536,217 @@ public class MainActivity extends Activity {
         myDBAdapter.insert_g("Dominique Wilkins", "", 5);
         myDBAdapter.insert_g("Dominique Wilkins", "", 14);
         myDBAdapter.insert_g("Dominique Wilkins", "", 25);
+        myDBAdapter.insert_g("George Gervin", "", 14);
+        myDBAdapter.insert_g("George Gervin", "", 19);
+        myDBAdapter.insert_g("Moses Malone", "", 12);
+        myDBAdapter.insert_g("Moses Malone", "", 30);
+        myDBAdapter.insert_g("Moses Malone", "", 28);
+        myDBAdapter.insert_g("Moses Malone", "", 11);
+        myDBAdapter.insert_g("Moses Malone", "", 24);
+        myDBAdapter.insert_g("Moses Malone", "", 14);
+        myDBAdapter.insert_g("Bill Walton", "", 13);
+        myDBAdapter.insert_g("Bill Walton", "", 17);
+        myDBAdapter.insert_g("Bill Walton", "", 5);
+        myDBAdapter.insert_g("Elvin Hayes", "", 30);
+        myDBAdapter.insert_g("Elvin Hayes", "", 12);
+        myDBAdapter.insert_g("Pete Maravich", "", 15); // Los Angeles Clippers (storico)
+        myDBAdapter.insert_g("Pete Maravich", "", 11); // Los Angeles Clippers (storico)
+        myDBAdapter.insert_g("Pete Maravich", "", 17); // Los Angeles Clippers (storico)
+        myDBAdapter.insert_g("Jerry West", "", 7); // Los Angeles Lakers (storico)
+        myDBAdapter.insert_g("Elgin Baylor", "", 7); // Los Angeles Lakers (storico)
+        myDBAdapter.insert_g("Hakeem Olajuwon", "", 12); // Houston Rockets (storico)
+        myDBAdapter.insert_g("Hakeem Olajuwon", "", 29); // Houston Rockets (storico)
+        myDBAdapter.insert_g("Oscar Robertson", "", 24); // Milwaukee Bucks (storico)
+        myDBAdapter.insert_g("Jaren Jackson Jr.", "", 2); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Jaren Jackson", "", 12); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Jaren Jackson", "", 14); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Jaren Jackson", "", 25); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Brandon Clarke", "", 2); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Tyus Jones", "", 2); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Tyus Jones", "", 30); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("Tyus Jones", "", 8); // Memphis Grizzlies (attuale)
+        myDBAdapter.insert_g("D'Angelo Russell", "", 8); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("D'Angelo Russell", "", 6); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("D'Angelo Russell", "", 26); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("D'Angelo Russell", "", 7); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Eric Bledsoe", "", 4); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Eric Bledsoe", "", 24); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Eric Bledsoe", "", 9); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Eric Bledsoe", "", 13); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Eric Bledsoe", "", 5); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Nicolas Batum", "", 5); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Nicolas Batum", "", 13); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Nicolas Batum", "", 18); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Nicolas Batum", "", 28); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Ivica Zubac", "", 7); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Ivica Zubac", "", 5); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Serge Ibaka", "", 5); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Serge Ibaka", "", 24); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Serge Ibaka", "", 29); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Serge Ibaka", "", 25); // Los Angeles Clippers (attuale)
+        myDBAdapter.insert_g("Collin Sexton", "", 20); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Collin Sexton", "", 15); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Derrick White", "", 17); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Derrick White", "", 14); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Will Barton", "", 1);
+        myDBAdapter.insert_g("Will Barton", "", 30);
+        myDBAdapter.insert_g("Will Barton", "", 29);
+        myDBAdapter.insert_g("Will Barton", "", 13);
+        myDBAdapter.insert_g("JaMychal Green", "", 1);
+        myDBAdapter.insert_g("JaMychal Green", "", 6);
+        myDBAdapter.insert_g("JaMychal Green", "", 5);
+        myDBAdapter.insert_g("JaMychal Green", "", 2);
+        myDBAdapter.insert_g("JaMychal Green", "", 14);
+        myDBAdapter.insert_g("Lauri Markkanen", "", 20);
+        myDBAdapter.insert_g("Lauri Markkanen", "", 19);
+        myDBAdapter.insert_g("Lauri Markkanen", "", 15);
+        myDBAdapter.insert_g("Gilgeous Alexander", "", 5);
+        myDBAdapter.insert_g("Gilgeous Alexander", "", 10);
+        myDBAdapter.insert_g("Theo Maledon", "", 10);
+        myDBAdapter.insert_g("Theo Maledon", "", 18);
+        myDBAdapter.insert_g("Bam Adebayo", "", 23);
+        myDBAdapter.insert_g("Tyler Herro", "", 23);
+        myDBAdapter.insert_g("Zion Williamson", "", 9); // New Orleans Pelicans (attuale)
+        myDBAdapter.insert_g("Nikola Vucevic", "", 28); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Nikola Vucevic", "", 25); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Nikola Vucevic", "", 19); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("De Andre Hunter", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 13); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 10); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 16); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 20); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 5); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 27); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Moses Brown", "", 26); // Golden State Warriors (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 8); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 26); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 22); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 19); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 14); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 29); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Thaddeus Young", "", 28); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Markelle Fultz", "", 28); // Cleveland Cavaliers (attuale)
+        myDBAdapter.insert_g("Markelle Fultz", "", 25); // Cleveland Cavaliers (attuale)
+        myDBAdapter.insert_g("Jarrett Allen", "", 20); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jarrett Allen", "", 26); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Cole Anthony", "", 25); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Cameron Reddish", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Cameron Reddish", "", 27); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Cameron Reddish", "", 13); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Cameron Reddish", "", 7); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 4); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 24); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 23); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 2); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 15); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 20); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 17); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Jae Crowder", "", 16); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Evan Fournier", "", 1); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Evan Fournier", "", 27); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Evan Fournier", "", 17); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Evan Fournier", "", 25); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Spencer Dinwiddie", "", 30); // Washington Wizards (attuale)
+        myDBAdapter.insert_g("Spencer Dinwiddie", "", 26); // Washington Wizards (attuale)
+        myDBAdapter.insert_g("Spencer Dinwiddie", "", 16); // Washington Wizards (attuale)
+        myDBAdapter.insert_g("Spencer Dinwiddie", "", 21); // Washington Wizards (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 7); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 12); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 5); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 30); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 18); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Montrezl Harrell", "", 28); // Los Angeles Lakers (attuale)
+        myDBAdapter.insert_g("Matisse Thybulle", "", 13); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Matisse Thybulle", "", 28); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 4); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 2); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 20); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 3); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 16); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 28); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 26); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Seth Curry", "", 13); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Jalen Green", "", 12); // Houston Rockets (attuale)
+        myDBAdapter.insert_g("Cade Cunningham", "", 21); // Detroit Pistons (attuale)
+        myDBAdapter.insert_g("Evan Mobley", "", 20); // Cleveland Cavaliers (attuale)
+        myDBAdapter.insert_g("Scottie Barnes", "", 29); // Brooklyn Nets (attuale)
+        myDBAdapter.insert_g("Franz Wagner", "", 25); // Toronto Raptors (attuale)
+        myDBAdapter.insert_g("Josh Giddey", "", 10); // Oklahoma City Thunder (attuale)
+        myDBAdapter.insert_g("Alperen Sengun", "", 12); // Houston Rockets (attuale)
+        myDBAdapter.insert_g("Isaiah Livers", "", 21); // Portland Trail Blazers (attuale)
+        myDBAdapter.insert_g("Cameron Thomas", "", 26); // Cleveland Cavaliers (attuale)
+        myDBAdapter.insert_g("Quentin Grimes", "", 27); // Brooklyn Nets (attuale)
+        myDBAdapter.insert_g("Sharife Cooper", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Robinson Earl", "", 10); // Portland Trail Blazers (attuale)
+        myDBAdapter.insert_g("Robinson Earl", "", 9); // Portland Trail Blazers (attuale)
+        myDBAdapter.insert_g("LaMelo Ball", "", 18); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Trae Young", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("John Collins", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("John Collins", "", 15); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Bogdan Bogdanović", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Bogdan Bogdanović", "", 3); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Kevin Huerter", "", 11); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Kevin Huerter", "", 3); // Atlanta Hawks (attuale)
+        myDBAdapter.insert_g("Michael Porter Jr.", "", 1); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Aaron Gordon", "", 1); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Aaron Gordon", "", 25); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Jamal Murray", "", 1); // Denver Nuggets (attuale)
+        myDBAdapter.insert_g("Kemba Walker", "", 18); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Kemba Walker", "", 17); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Kemba Walker", "", 27); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Kemba Walker", "", 16); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Gordon Hayward", "", 18); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Gordon Hayward", "", 17); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Gordon Hayward", "", 15); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Miles Bridges", "", 18); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Luguentz Dort", "", 10); // Oklahoma City Thunder (attuale)
+        myDBAdapter.insert_g("Darius Bazley", "", 10); // Oklahoma City Thunder (attuale)
+        myDBAdapter.insert_g("Darius Bazley", "", 4); // Oklahoma City Thunder (attuale)
+        myDBAdapter.insert_g("Anthony Edwards", "", 8); // Charlotte Hornets (attuale)
+        myDBAdapter.insert_g("Tyrese Haliburton", "", 22); // Cleveland Cavaliers (passato)
+        myDBAdapter.insert_g("Tyrese Haliburton", "", 3); // Cleveland Cavaliers (passato)
+        myDBAdapter.insert_g("Deandre Ayton", "", 13); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("Deandre Ayton", "", 4); // Phoenix Suns (attuale)
+        myDBAdapter.insert_g("CJ McCollum", "", 13); // Portland Trail Blazers (attuale)
+        myDBAdapter.insert_g("CJ McCollum", "", 9); // Portland Trail Blazers (attuale)
+        myDBAdapter.insert_g("Ben Simmons", "", 26); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Ben Simmons", "", 28); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Tobias Harris", "", 5); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Tobias Harris", "", 21); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Tobias Harris", "", 28); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Tobias Harris", "", 25); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Tobias Harris", "", 24); // Philadelphia 76ers (attuale)
+        myDBAdapter.insert_g("Zach LaVine", "", 19); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("Zach LaVine", "", 8); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("Julius Randle", "", 8); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("Julius Randle", "", 7); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("Julius Randle", "", 27); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("DeMar DeRozan", "", 29); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("DeMar DeRozan", "", 14); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("DeMar DeRozan", "", 19); // Indiana Pacers (passato)
+        myDBAdapter.insert_g("Bradley Beal", "", 30); // Washington Wizards (attuale)
+        myDBAdapter.insert_g("Bradley Beal", "", 4); // Brooklyn Nets (attuale)
+        myDBAdapter.insert_g("Kristaps Porzingis", "", 16); // Dallas Mavericks (attuale)
+        myDBAdapter.insert_g("Kristaps Porzingis", "", 27); // New York Knicks (passato)
+        myDBAdapter.insert_g("Kristaps Porzingis", "", 30); // Washington Wizards (passato)
+        myDBAdapter.insert_g("Kristaps Porzingis", "", 17); // Boston Celtics (passato)
+        myDBAdapter.insert_g("John Wall", "", 30); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("John Wall", "", 12); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("John Wall", "", 5); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 5); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 15); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 28); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 13); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 29); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Rodney Hood", "", 24); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 7); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 16); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 12); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 21); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 28); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 9); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 24); // Philadelphia 76ers (passato)
+        myDBAdapter.insert_g("Christian Wood", "", 18); // Philadelphia 76ers (passato)
 
 
 
